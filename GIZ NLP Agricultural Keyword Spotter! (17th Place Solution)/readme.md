@@ -6,12 +6,12 @@ This repo contains solution for 17th place of GIZ NLP Agricultural Keyword Spott
 Final submission includes:
  - Augmentations : Gaussion noise, Pitch Shift, Short noise, Background Noise, Speed Augmenter, white noise, Pink noise,
                    bandpass noise, Frequency Masking
-     * The sound files used for background and short noise downloaded from freesound.org
-            * [street-scene-1 by saphe](http://freesound.org/people/saphe/sounds/150993/) 
-            * [street-scene-3 by saphe](http://freesound.org/people/saphe/sounds/173955/)
-            * [high-street-of-gandia-valencia-spain by jormarp](http://freesound.org/people/Jormarp/sounds/207208/)
-            * [city-park-tel-aviv-israel by yonts](http://freesound.org/people/yonts/sounds/268903/)
-     * Cropped original sound to 4seconds in this [folder]()
+     - The sound files used for background and short noise downloaded from freesound.org
+            - [street-scene-1 by saphe](http://freesound.org/people/saphe/sounds/150993/) 
+            - [street-scene-3 by saphe](http://freesound.org/people/saphe/sounds/173955/)
+            - [high-street-of-gandia-valencia-spain by jormarp](http://freesound.org/people/Jormarp/sounds/207208/)
+            - [city-park-tel-aviv-israel by yonts](http://freesound.org/people/yonts/sounds/268903/)
+     - Cropped original sound to 4seconds in this [folder](https://github.com/shanmugamm212/Data-Science-Portfolio/tree/master/GIZ%20NLP%20Agricultural%20Keyword%20Spotter!%20(17th%20Place%20Solution)/bgn)
  - Models Used : Resnet18, Resnet34, Resnet50, Densenet121, Densenet169
  - Mean of all 5 models
 

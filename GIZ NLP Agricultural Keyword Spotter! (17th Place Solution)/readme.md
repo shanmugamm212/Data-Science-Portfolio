@@ -1,5 +1,5 @@
-This repository contains solution for 17th place of GIZ NLP Agricultural Keyword Spotter competition
-(https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard)
+This repository contains solution for 14th place of GIZ NLP Agricultural Keyword Spotter competition
+(https://zindi.africa/users/Shanmugam/competitions/certificate)
 
 
 ### **Final solution overview:**

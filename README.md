@@ -7,6 +7,11 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/shanmugam-mari
 
 ## <p>Projects
 
+* **[GIZ NLP Agricultural Keyword Spotter](https://github.com/shanmugamm212/Data-Science-Portfolio/tree/master/GIZ%20NLP%20Agricultural%20Keyword%20Spotter!%20(14th%20Place%20Solution))**: Machine learning competition to classify audio utterances in Luganda and
+English. Got 14th place (out of 700+ participants) in private leaderboard (Top 1%).
+    * Worked on Convolution Neural Networks (CNN) such as ResNet’s and DenseNet’s.
+    * Mean of 5 different models predicted the audio utterances three times better than baseline resnet34 model.
+    
 * **[University of Liverpool - Ion Switching](https://github.com/shanmugamm212/Data-Science-Portfolio/blob/master/University%20of%20Liverpool%20-%20Ion%20Switching.ipynb)**: Machine Learning project to predict the number of open ion channels based on electrophysiological signals from human cells.
     * Created custom architecture Using Gated Recurrent Unit, Linear layer followed by activation functions.
 Further increased accuracy by hyper-parameter tuning.

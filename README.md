@@ -7,6 +7,10 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/shanmugam-mari
 
 ## <p>Projects
 
+* **[AI4D Malawi News Classification Challenge](https://github.com/shanmugamm212/Data-Science-Portfolio/tree/master/AI4D%20Malawi%20News%20Classification%20Challenge%20(11th%20Place%20Solution))**: Machine learning competition to classify news articles. Got 11th place (out of 700+ participants) in private leaderboard (Top 1%).
+    * Transfer Learning is used to get the pretrained weights and vocabularies from language model, combined with news article dataset and used AWD LSTM Architecture.
+    * Evaluation metric is Accuracy scoring 66%.
+
 * **[GIZ NLP Agricultural Keyword Spotter](https://github.com/shanmugamm212/Data-Science-Portfolio/tree/master/GIZ%20NLP%20Agricultural%20Keyword%20Spotter!%20(14th%20Place%20Solution))**: Machine learning competition to classify audio utterances in Luganda and
 English. Got 14th place (out of 700+ participants) in private leaderboard (Top 1%).
     * Worked on Convolution Neural Networks (CNN) such as ResNet’s and DenseNet’s.
@@ -23,11 +27,6 @@ Walmart, in collaboration with University of Nicosia.
     * Experimented with Random Forest, Deep neural network - fully connected, RNN for same dataset.
     * The final model with WRMSSE of 0.75.
     
-* **[Real or Not? NLP with Disaster Tweets](https://github.com/shanmugamm212/Data-Science-Portfolio/blob/master/Real%20or%20Not%3F%20NLP%20with%20Disaster%20Tweets.ipynb)**: Natural Language Processing project comprising of:
-    * Transfer Learning is used to get the pretrained weights and vocabularies from language model, combined
-withtweet dataset and used AWD LSTM Architecture.
-    * Accuracy evaluated by F1. Got 79% accuracy
-
 * **[Language Model - Tamil](https://github.com/shanmugamm212/Data-Science-Portfolio/blob/master/Language%20Model%20-%20Tamil.ipynb)**: Machine Learning project to create pretrained language model for the language Tamil.
     * Used Wikipedia Dataset. Trained model with Pytorch framework using FastAI API’s.
     * This model is used to predict the next word by learning from Wikipedia data.
